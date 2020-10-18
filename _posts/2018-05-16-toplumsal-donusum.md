@@ -4,14 +4,13 @@ title: "Toplumsal Dönüşüm"
 author: "Inela"
 ---
 
-# Tartışma Metni
+Bu haftanın konusu "toplumsal dönüşüm". Tartışma metnindeki sorular aşağıdaki gibiydi.
 
-Selam arkadaşlar elimden geldiğince çokta dallandırıp budaklandırmadan konuya yaklaşmaya çalıştım.
-1) Nasıl bir toplum gelişmiş bir toplum olarak kabul edilebilir? bilim - ekonomi - sağlık - sosyal hayat gibi etkenlerin tamamının oluşturulması gerekir mi ?
-2) Batıyı benimsemek bizi gelişmiş bir toplum olma yolunda geliştirir mi ? kültürümüzü örf ve adetlerimizi koruyarak da gelişmiş bir toplumu oluşturabilir miyiz ?
-3) Ülke rejimi gelişime ne ölçüde etkendir olumlu / olumusuz
-4) Gelişim toplumda ve bireyde nasıl başlar biz ne yapabiliriz - ne yapıyoruz
-5) Topluma öncülük edecek liderin sıradan lider vasıfları dışında ne tür vasıfları olmalı
+* Nasıl bir toplum gelişmiş bir toplum olarak kabul edilebilir? bilim - ekonomi - sağlık - sosyal hayat gibi etkenlerin tamamının oluşturulması gerekir mi ?
+* Batıyı benimsemek bizi gelişmiş bir toplum olma yolunda geliştirir mi ? kültürümüzü örf ve adetlerimizi koruyarak da gelişmiş bir toplumu oluşturabilir miyiz ?
+* Ülke rejimi gelişime ne ölçüde etkendir olumlu / olumusuz
+* Gelişim toplumda ve bireyde nasıl başlar biz ne yapabiliriz - ne yapıyoruz
+* Topluma öncülük edecek liderin sıradan lider vasıfları dışında ne tür vasıfları olmalı
 
 İlk soruyu cevaplarken bazı önkabuller oluşabilir. Öncelikle bu yanlış anlamaların önüne geçmek istiyorum. Gelişmiş veya gelişmemiş kabulunu toplum için yaptığımızda Gelişmişlikten ne anladığımız biraz subjektif oluyor. Burada eğer kestirmeden bir gelişmiş toplum gelişmemiş toplum ayrımı yaparsak genelleyici bir anlatıya girişmiş oluruz. Böyle düşünmenin ne bireye ne de topluma faydası olur. Bu hataya düşmeden örneğin ekonomik gelişim dediğimiz anda hemen adımlar belirmeye başlıyor artık daha anlamlı ve ayaklarımızın yere basabileceği bir düzleme geliyoruz.
 
